@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://serpstack.com/
 common:
+  - type: DomainSecurity
+    url: security/serpstack-domain-security.yml
   - type: Website
     url: https://serpstack.com/
   - type: PublicAPIsListing
