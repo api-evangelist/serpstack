@@ -39,7 +39,6 @@ apis:
   - name: serpstack
     description: "Real-Time & Accurate Google Search Results API"
     humanURL: https://serpstack.com/
-    baseURL: https://serpstack.com/
     tags:
       - Development
     properties:
